@@ -1,3 +1,3 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1153062873543753830/1153078307282239548/g4rez.jpg" align="center" style="width: 100%" />
+<img src="https://cdn.discordapp.com/attachments/1152247710712340612/1153079506656051240/g4rez.jpg" align="center" style="width: 100%" />
 </div>
